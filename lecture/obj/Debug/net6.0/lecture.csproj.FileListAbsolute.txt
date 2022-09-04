@@ -1,0 +1,15 @@
+/Users/dasa/Documents/geekbrains/lecture/bin/Debug/net6.0/lecture
+/Users/dasa/Documents/geekbrains/lecture/bin/Debug/net6.0/lecture.deps.json
+/Users/dasa/Documents/geekbrains/lecture/bin/Debug/net6.0/lecture.runtimeconfig.json
+/Users/dasa/Documents/geekbrains/lecture/bin/Debug/net6.0/lecture.dll
+/Users/dasa/Documents/geekbrains/lecture/bin/Debug/net6.0/lecture.pdb
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/lecture.csproj.AssemblyReference.cache
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/lecture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/lecture.AssemblyInfoInputs.cache
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/lecture.AssemblyInfo.cs
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/lecture.csproj.CoreCompileInputs.cache
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/lecture.dll
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/refint/lecture.dll
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/lecture.pdb
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/lecture.genruntimeconfig.cache
+/Users/dasa/Documents/geekbrains/lecture/obj/Debug/net6.0/ref/lecture.dll
