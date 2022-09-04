@@ -1,0 +1,15 @@
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/bin/Debug/net6.0/Task_18
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/bin/Debug/net6.0/Task_18.deps.json
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/bin/Debug/net6.0/Task_18.runtimeconfig.json
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/bin/Debug/net6.0/Task_18.dll
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/bin/Debug/net6.0/Task_18.pdb
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/Task_18.csproj.AssemblyReference.cache
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/Task_18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/Task_18.AssemblyInfoInputs.cache
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/Task_18.AssemblyInfo.cs
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/Task_18.csproj.CoreCompileInputs.cache
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/Task_18.dll
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/refint/Task_18.dll
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/Task_18.pdb
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/Task_18.genruntimeconfig.cache
+/Users/dasa/Documents/geekbrains/Seminar_3/Task_18/obj/Debug/net6.0/ref/Task_18.dll

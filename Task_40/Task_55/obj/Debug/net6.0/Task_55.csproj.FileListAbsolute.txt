@@ -1,0 +1,15 @@
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/bin/Debug/net6.0/Task_55
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/bin/Debug/net6.0/Task_55.deps.json
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/bin/Debug/net6.0/Task_55.runtimeconfig.json
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/bin/Debug/net6.0/Task_55.dll
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/bin/Debug/net6.0/Task_55.pdb
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/Task_55.csproj.AssemblyReference.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/Task_55.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/Task_55.AssemblyInfoInputs.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/Task_55.AssemblyInfo.cs
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/Task_55.csproj.CoreCompileInputs.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/Task_55.dll
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/refint/Task_55.dll
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/Task_55.pdb
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/Task_55.genruntimeconfig.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_55/obj/Debug/net6.0/ref/Task_55.dll

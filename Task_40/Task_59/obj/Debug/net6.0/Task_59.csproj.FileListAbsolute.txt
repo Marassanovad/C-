@@ -1,0 +1,5 @@
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_59/obj/Debug/net6.0/Task_59.csproj.AssemblyReference.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_59/obj/Debug/net6.0/Task_59.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_59/obj/Debug/net6.0/Task_59.AssemblyInfoInputs.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_59/obj/Debug/net6.0/Task_59.AssemblyInfo.cs
+/Users/dasa/Documents/geekbrains/C#/Seminar_8/Task_59/obj/Debug/net6.0/Task_59.csproj.CoreCompileInputs.cache

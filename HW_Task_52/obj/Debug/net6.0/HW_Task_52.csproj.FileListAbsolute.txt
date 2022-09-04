@@ -1,0 +1,15 @@
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/HW_Task_52.csproj.AssemblyReference.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/HW_Task_52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/HW_Task_52.AssemblyInfoInputs.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/HW_Task_52.AssemblyInfo.cs
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/HW_Task_52.csproj.CoreCompileInputs.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/bin/Debug/net6.0/HW_Task_52
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/bin/Debug/net6.0/HW_Task_52.deps.json
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/bin/Debug/net6.0/HW_Task_52.runtimeconfig.json
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/bin/Debug/net6.0/HW_Task_52.dll
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/bin/Debug/net6.0/HW_Task_52.pdb
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/HW_Task_52.dll
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/refint/HW_Task_52.dll
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/HW_Task_52.pdb
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/HW_Task_52.genruntimeconfig.cache
+/Users/dasa/Documents/geekbrains/C#/Seminar_7/HW_Task_52/obj/Debug/net6.0/ref/HW_Task_52.dll

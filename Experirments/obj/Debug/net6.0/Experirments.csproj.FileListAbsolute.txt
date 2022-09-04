@@ -1,0 +1,5 @@
+/Users/dasa/Documents/geekbrains/Seminar_4/Experirments/obj/Debug/net6.0/Experirments.csproj.AssemblyReference.cache
+/Users/dasa/Documents/geekbrains/Seminar_4/Experirments/obj/Debug/net6.0/Experirments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasa/Documents/geekbrains/Seminar_4/Experirments/obj/Debug/net6.0/Experirments.AssemblyInfoInputs.cache
+/Users/dasa/Documents/geekbrains/Seminar_4/Experirments/obj/Debug/net6.0/Experirments.AssemblyInfo.cs
+/Users/dasa/Documents/geekbrains/Seminar_4/Experirments/obj/Debug/net6.0/Experirments.csproj.CoreCompileInputs.cache
